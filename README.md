@@ -1,4 +1,4 @@
-# HackNYU
+# HackNYU - Feed A Homeless
 ## Inspiration
 During my everyday commute between college and home, I often encounter homeless people asking for food and I've also seen people overestimating their requirements and wasting huge amounts of food, which sparked an idea in our head to solve the two problems by bridging the gap between them using Technology.
 
